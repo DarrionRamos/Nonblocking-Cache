@@ -1,2 +1,2 @@
-# Nonblocking_Cache
+# Nonblocking-Cache
 A direct mapped, non-blocking cache implemented and tested in system verilog.
